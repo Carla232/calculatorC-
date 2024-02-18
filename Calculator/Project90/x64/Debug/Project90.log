@@ -1,0 +1,8 @@
+﻿  AdvancedUserInterface.cpp
+  CalculatorEngine.cpp
+  ExpressionParser.cpp
+  UserInterface.cpp
+C:\Users\gigel\source\repos\Project90\Project90\UserInterface.cpp(62,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Project90.vcxproj -> C:\Users\gigel\source\repos\Project90\x64\Debug\Project90.exe
