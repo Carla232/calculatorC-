@@ -1,0 +1,3 @@
+﻿  UserInterface.cpp
+C:\Users\gigel\source\repos\Calculator\Calculator\UserInterface.cpp(62,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Calculator.vcxproj -> C:\Users\gigel\source\repos\Calculator\x64\Debug\Calculator.exe
